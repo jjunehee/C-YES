@@ -4,14 +4,14 @@
 
 
 # 📌목차
-- [프로젝트 진행 기간](#-프로젝트-진행-기간)
-- [개요](#-개요)
-- [주요 기능](#-주요-기능)
-- [서비스 화면](#-서비스-화면)
-- [주요 기술](#-주요-기술)
-- [프로젝트 파일 구조](#-프로젝트-파일-구조)
-- [프로젝트 산출물](#-프로젝트-산출물)
-- [팀원 역할 분배](#-팀원-역할-분배)
+- [프로젝트 진행 기간](#🎞-프로젝트-진행-기간)
+- [개요](#✨-개요)
+- [주요 기능](#💻-주요-기능)
+- [서비스 화면](#🖼-서비스-화면)
+- [주요 기술](#🛠-주요-기술)
+- [프로젝트 파일 구조](#🗂-프로젝트-파일-구조)
+- [프로젝트 산출물](#📋-프로젝트-산출물)
+- [팀원 역할 분배](#👩‍💻-팀원-역할-분배)
 
 <br>
 
@@ -54,18 +54,20 @@
 
 
 
-## ✅ 실시간 퀴즈
-![ezgif com-crop (3)](https://github.com/handaldog/C-YES/assets/96431408/370c7467-21f2-4057-9852-c5024506d723)![ezgif com-crop (4)](https://github.com/handaldog/C-YES/assets/96431408/60de9407-04e3-4e56-9ace-560ed8fcddf8)![ezgif com-crop (5)](https://github.com/handaldog/C-YES/assets/96431408/9bf6d804-8422-4ef3-b2ce-d222984c9a44)
+## 실시간 퀴즈
+<img src="https://github.com/SuInWoo/C-yes/assets/63344592/a7ebe6e1-22b9-4c60-a9e9-bd0d7ac3e6b3" width="250" height="600">
+<img src="https://github.com/SuInWoo/C-yes/assets/63344592/f7c3845e-99bc-4be0-9e59-b6eeb97ede18" width="250" height="600">
+<img src="https://github.com/SuInWoo/C-yes/assets/63344592/8b40b03b-abf5-4f44-8024-c1c8aaf10f82" width="250" height="600">
 
-## ✅ 문제 은행
-![ezgif com-crop (6)](https://github.com/handaldog/C-YES/assets/96431408/e5a73e42-165c-4056-a95d-fa68dbbbd4e0)![ezgif com-crop (7)](https://github.com/handaldog/C-YES/assets/96431408/dd934ae9-2b93-4b3b-9a1b-6edea8fbc6d0)![ezgif com-crop (8)](https://github.com/handaldog/C-YES/assets/96431408/76c8b271-12c8-4220-9168-2d36ebb3dfaa)
+## 문제 은행
+<img src="https://github.com/SuInWoo/C-yes/assets/63344592/fcbd6793-85d2-4a18-a31e-fe5eae27d593" width="250" height="600">
+<img src="https://github.com/SuInWoo/C-yes/assets/63344592/ac5aeb88-286d-4973-a4f2-d00954392bde" width="250" height="600">
+<img src="https://github.com/SuInWoo/C-yes/assets/63344592/6c10372e-f849-4691-ba9f-6c119d03edda" width="250" height="600">
 
-## ✅ 그룹 퀴즈
-![ezgif com-crop (13)](https://github.com/handaldog/C-YES/assets/96431408/50322041-4dd0-479b-8bf4-5b02c71231a6)![ezgif com-crop (11)](https://github.com/handaldog/C-YES/assets/96431408/6fd13c9e-80a4-4f74-81e5-3043798acf42)![ezgif com-crop (12)](https://github.com/handaldog/C-YES/assets/96431408/f5260849-ad26-4b6d-9adb-9c264c553dc7)
-
-## ✅ 관리자 문제 페이지
-<img src="https://github.com/handaldog/C-YES/assets/96431408/8056225b-4fc0-42d7-99d4-4788fb7a0332" width="200" height="400">![ezgif com-crop (20)](https://github.com/handaldog/C-YES/assets/96431408/dd23edd2-8c74-4cc6-92ac-a87205535386)![ezgif com-crop (21)](https://github.com/handaldog/C-YES/assets/96431408/07d82308-4bf4-4160-98fd-0b4538a36640)![ezgif com-crop (22)](https://github.com/handaldog/C-YES/assets/96431408/62ea5f55-ce18-4471-84cb-a405055e0250)
-
+## 그룹 퀴즈
+<img src="https://github.com/SuInWoo/C-yes/assets/63344592/4cd33117-04d9-4abb-83b5-3cb4925e21e8" width="250" height="600">
+<img src="https://github.com/SuInWoo/C-yes/assets/63344592/34e2cf17-a506-46fd-af6a-0f3b184e09fa" width="250" height="600">
+<img src="https://github.com/SuInWoo/C-yes/assets/63344592/7e5156cf-e897-4053-a998-4d0093e90d64" width="250" height="600">
 
 # 🛠 주요 기술
 
@@ -73,7 +75,7 @@
 **Backend**
 <br>
 
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 - Java : Oracle OpenJDK 11
 - SpringBoot 2.7.17
 - Spring Data Jpa 
@@ -242,9 +244,6 @@ socket-server
 - [와이어프레임](https://www.figma.com/file/EHttBkzorg0ZYZp0YbVavo/%EA%B2%BD%EC%B6%95%EB%B9%84-c-yes?type=design&node-id=303-2&mode=design)
 - [시스템 아키텍처](https://www.canva.com/design/DAF0VGnfH20/yiLXKm1KIPTV1KpNKnaTkw/edit)
 
-
-
-
 <br>
 <br>
 
@@ -252,8 +251,8 @@ socket-server
 
 | 우승빈            | 배수빈 | 우수인   | 유혜빈  | 유태영  | 조준희  |
 | ----------------- | -------- | -------- | ------- | ------- | ------- |
-| <img src="https://github.com/handaldog/C-YES/assets/96431408/973a0781-2e83-40e0-a0df-e07f8a72a3e7" width="130" height="180">|<img src="https://github.com/handaldog/C-YES/assets/96431408/7402e39d-0b01-41d4-86fe-87076775e417" width="130" height="180">|<img src="https://github.com/handaldog/C-YES/assets/96431408/34b2c650-8e5e-49a6-94b1-080e61429578" width="130" height="180">|<img src="https://github.com/handaldog/C-YES/assets/96431408/efaaad7e-09b2-48d6-a790-88af70e42965" width="130" height="180">|<img src="https://github.com/handaldog/C-YES/assets/96431408/d3efc9c8-3a18-4713-bab2-37bec4561c67" width="130" height="180">|<img src="https://github.com/handaldog/C-YES/assets/96431408/c0e8b853-369c-4e5c-b370-757761c804e3" width="130" height="180">|
-| Leader & Backend | Frontend | Frontend&Infra | Infra & Backend | Backend | Backend |
+| <img src="https://github.com/SuInWoo/C-yes/assets/63344592/4261a7b1-6510-4c51-aec6-65d52868c63f" width="130" height="180">|<img src="https://github.com/SuInWoo/C-yes/assets/63344592/112969af-e9a2-4acf-a936-b63985dc0b18" width="130" height="180">|<img src="https://github.com/SuInWoo/C-yes/assets/63344592/66fbfbd0-89cb-4fac-9993-b565fa3d9672" width="130" height="180">|<img src="https://github.com/SuInWoo/C-yes/assets/63344592/0b921390-9535-4efe-8163-53a499bbf01b" width="130" height="180">|<img src="https://github.com/SuInWoo/C-yes/assets/63344592/059c80f1-2077-4942-a604-40d018a91d56" width="130" height="180">|<img src="https://github.com/SuInWoo/C-yes/assets/63344592/4f37d0dd-7f87-403d-bd5f-2cc3381bfb4c" width="130" height="180">|
+| Leader&Backend | Frontend/Infra | Frontend/Infra | Infra | Backend | Backend |
 
 <br>
 <br>
